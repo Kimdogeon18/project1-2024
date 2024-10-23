@@ -15,3 +15,10 @@ git config --global user.email "email@naver.com"
 
 2024-09-19 깃허브 연동수업
 로컬에서 편집함
+
+# 캡스톤 프로젝트 
+2024-10-23 캡스톤 프로젝트 중간 과제
+
+# 
+
+1.
