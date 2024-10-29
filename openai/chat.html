@@ -3,26 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ChatGPT 개발</title>
-    <script  src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <title>김도건의 인공지능 놀이터</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
     <script src="chat.js"></script>
 </head>
 <body>
     
-    <h1>김도건의 인공지능 놀이터</h1>
-    
-    <input id="ai" , type="text" class="form-control" placeholder="질문하세요">
-    <button onclick="question " class="btn btn-info">질문</button>
-  <h2></h2>
-  <textarea>text area</textarea>
-  <td style="height:30px;">model</td>
-  <td>
-    <select id="tformat">
-      <option value="3.5">3.5</option>
-      <option value="4.0">4.0</option>
-      <option value="mini", selected>mini</option>
-    </select>
-  </td>
-  <hr>
+</h1>
+
+    <textarea id="txtMsg" cols="30" rows="3"></textarea>
+    <button onclick="talk()" id="btnSend">물어보기</button>
+    <button onclick="draw()" id = "btndraw">그리기</button>
+    <br>
+    <hr>    
+    <textarea id="txtOut" cols="80", rows="10"></textarea>
+
+    <img id="gimage" style="border: 5px solid #555">
+    <img id="gimage2" style="border: 5px solid #555">
 </body>
 </html>
