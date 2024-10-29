@@ -96,6 +96,8 @@ $.ajax({
     })
 ```
 
+![스크린샷 2024-10-23 235045](https://github.com/user-attachments/assets/284e5699-2080-4e0b-be29-cd8d8a58ec7c)
+
 개발순서
 1. 소스 수정
 2. 소스 저장
