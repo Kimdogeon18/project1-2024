@@ -15,6 +15,7 @@ function uploadFiles(files){
     reader.readAsDataURL(file)
 }
 
+
 function analyze(){
     data ={
         requests: [{
