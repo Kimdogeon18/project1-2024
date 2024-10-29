@@ -104,7 +104,26 @@ git config --global user.email "email@naver.com"
 2024-09-19 깃허브 연동수업
 로컬에서 편집함
 
+# 캡스톤 프로젝트 중간 과제
+2024-10-23
+
+# GOOGLE API를 이용한 이미지 분석
+이 프로젝트는 사용자가 업로드한 이미지를 GOOGLE  VISION API 키를 통해 이미지 확인 후 감정을 분석해 주는 코드.
+
+# 기능
+- 이미지 업로드
+- 이미지 분석
+- 얼굴 감지
+- 감정 분석
+
+# 사용방법 
+1. 이미지 업로드
+2. 이미지 분석 버튼 클릭
+3. 분석한 감정을 %단위로 출력
+
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![js](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
