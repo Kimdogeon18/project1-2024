@@ -24,9 +24,10 @@ $.ajax({
             }).fail(function(error) {
          alert("!/js/user.js에서 에러발생: " + error.statusText);
       });
-
-
 ```
+
+![스크린샷 2024-10-29 130129](https://github.com/user-attachments/assets/476555a3-579c-40e0-9f9b-d6fcb16a3c9a)
+
 # openAI
 chatGPT API키 활용하여 질의응답
 [실습해보기1](https://api.openai.com/v1/chat/completions),
