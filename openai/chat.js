@@ -38,7 +38,6 @@ function talk(){
     })
 }
 
-
 function draw(){
     squestion = txtMsg.value
     data ={
