@@ -25,8 +25,8 @@ function analyze(){
                 type:"FACE_DETECTION",
                 maxResults: 100
             }]
-        }]
-    }
+            }]
+        }
 
     $.ajax({
         type:"POST",
