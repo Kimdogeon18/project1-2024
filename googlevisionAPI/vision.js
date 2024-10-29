@@ -1,5 +1,6 @@
 
 GOOGLE_API_KEY = ""
+
 CV_URL = 'https://vision.googleapis.com/v1/images:annotate?key=' + GOOGLE_API_KEY;
 function processFile(event){
     content = event.target.result 
