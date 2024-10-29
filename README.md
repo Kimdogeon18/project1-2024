@@ -88,24 +88,6 @@ $.ajax({
 
     })
 ```
-1. 소스 수정
-2. 소스 저장
-3. 스테이지
-4. 커밋에 푸쉬
-5. 커밋메시지
-
-git 설정
-git config--global user.name "soek345"
-git config--global user.email "tkddbstjrdbs123@g.shingu.ac.kr"
-git confi--list
-
-두번째 수정
-
-
-2024-9-19 깃허브연동실습
-2024-10-18 google vision api 키를 사용해 얼굴인식후  (웃음,슬픔,화남,놀람)표정 감지
-
-로컬에서 편집함
 
 개발순서
 1. 소스 수정
@@ -121,3 +103,8 @@ git config --global user.email "email@naver.com"
 
 2024-09-19 깃허브 연동수업
 로컬에서 편집함
+
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
